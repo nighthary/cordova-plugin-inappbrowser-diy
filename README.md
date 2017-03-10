@@ -1,5 +1,11 @@
 ##  插件改动	
-	update at 20170310 对Inappbrowser进行个性化定制,使得在使用window.open打开view时里面的指定类型的A标签可以通过系统浏览器打开，而不是在本view中打开.
+
+本插件地址:https://github.com/nighthary/cordova-plugin-inappbrowser-diy
+
+--------
+原插件地址:https://github.com/apache/cordova-plugin-inappbrowser
+
+	update at 20170310 对Inappbrowser进行个性化定制,使得在使用window.open打开view时里面的包含指定TAG的A标签可以通过系统浏览器打开，而不是在本view中打开.
 ###Android改动
 InAppBrowser 修改line:848
 
